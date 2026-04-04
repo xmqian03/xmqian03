@@ -3,8 +3,6 @@
 [![Personal Homepage](https://img.shields.io/badge/Homepage-xmqian03.github.io-blue?style=flat-square&logo=github)](https://xmqian03.github.io)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=DpbSbQoAAAAJ)
 [![Email](https://img.shields.io/badge/Email-2537831239%40qq.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:2537831239@qq.com)
-![Profile Views](https://komarev.com/ghpvc/?username=xmqian03&color=green&style=flat-square&label=Profile+Views)
-
 ---
 
 #### About Me
