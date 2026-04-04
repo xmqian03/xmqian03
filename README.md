@@ -16,23 +16,3 @@
 
 My research focuses on **multimodal video understanding** with large foundation models. I am broadly interested in building and improving multimodal foundation models, with the goal of enabling machines to perceive, comprehend, and reason over visual content — particularly in the video domain.
 
----
-
-#### GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=xmqian03&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xmqian03&layout=compact&theme=default&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xmqian03&theme=default&hide_border=true" />
-</p>
-
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xmqian03/xmqian03/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xmqian03/xmqian03/output/github-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/xmqian03/xmqian03/output/github-snake.svg" />
-</picture>
