@@ -7,7 +7,7 @@
 
 #### About Me
 
-- 🎓 Incoming PhD student at [Fudan University](https://www.fudan.edu.cn/en/), supervised by Prof. [Xipeng Qiu](https://xpqiu.github.io/)
+- 🎓 First-year PhD student at [Fudan University](https://www.fudan.edu.cn/en/), supervised by Prof. [Xipeng Qiu](https://xpqiu.github.io/)
 - 🏫 B.Eng. from [School of Software](https://software.nju.edu.cn/), [Nanjing University](https://www.nju.edu.cn/en/)
 - 🔬 Member of [OpenMOSS](https://www.open-moss.com/) / [FNLP-Vision](https://github.com/fnlp-vision)
 - 💼 Currently interning at [Mosi Intelligence](http://mosi-ai.com/)
